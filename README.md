@@ -5,6 +5,8 @@ Crypton is an educational library to **learn** and **practice** Offensive and De
   
 The library will be continuously updated with attack explanations and CTF challenges!
   
+**WARNING**: The author in no way guarantees that the code is secure. The library is only meant for educational purposes and the code should not be used for implementing in real world. All the example scripts in the library are *trivial* implementations.  
+  
 There are different sections in this README:  
 * _Motivation_- What motivated me to create this library
 * _Library Structure_- Directory structure of Crypton
